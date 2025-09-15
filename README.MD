@@ -1,8 +1,8 @@
 I parteciapanti sono:
-Zavanelli Roberta
-Cristian Di Lallo
-Marina Momoloaca 
-Massimo Pollutri
+Zavanelli Roberta (rzavanelli-blip)
+Cristian Di Lallo (cdilallo-beep) 
+Marina Momoloaca (Loto417)
+Massimo Pollutri (Maximvs-777)
 
 Le funzionalità implementate sono:
 Inserimento di un nuovo film (ID univoco consigliato)
